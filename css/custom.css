@@ -20,6 +20,7 @@ body {
   margin-bottom: 20px;
   text-align: center;
   color: #f4511e;
+  margin-top: 50px;
 }
 .correcto {
   background-color: rgb(211, 249, 187);
@@ -28,6 +29,7 @@ body {
   margin-bottom: 20px;
   text-align: center;
   color: rgb(4, 150, 50);
+  margin-top: 50px;
 }
 .error p {
   margin: 0;
@@ -38,7 +40,6 @@ body {
   -webkit-box-shadow: 0px 21px 46px -15px rgba(0, 0, 0, 1);
   -moz-box-shadow: 0px 21px 46px -15px rgba(0, 0, 0, 1);
   box-shadow: 0px 21px 46px -15px rgba(0, 0, 0, 1);
-
 }
 .contenido-formulario {
   margin-top: 30px;
